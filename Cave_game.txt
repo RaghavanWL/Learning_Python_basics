@@ -1,0 +1,2 @@
+First run cave_initialise.py and then run cave_game.py you can also create your own directory,
+as default it will get stored where you have created your project or installation directory.
