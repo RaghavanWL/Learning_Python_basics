@@ -26,7 +26,7 @@ while True:
 print()
 print()
 reactionTime = endingTime-startingTime
-if reactionTime == 0.13029383659362793:
+if reactionTime == 0.1342216968536377:
     print("IMPOSIBLE !!! YOU AND ME HAVE THE SAME REACTION TIME")
 else: 
     print("Your reaction time is : ",reactionTime)
