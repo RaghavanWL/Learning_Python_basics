@@ -6,6 +6,7 @@ import keyboard
 import random
 g = random.randint(3,5)
 print("i will say ready steady go when i say go press enter")
+time.sleep(2)
 print()
 print()
 time.sleep(1)
