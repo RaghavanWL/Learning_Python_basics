@@ -24,3 +24,4 @@ if (amount % nickel):
     print("nickel = ", no_of_nickel)
 no_of_penny = amount
 print("penny = ", no_of_penny)
+# lol
